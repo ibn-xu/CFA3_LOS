@@ -134,6 +134,10 @@ g. discuss methods of forecasting volatility;
 
 h. recommend and justify changes in the component weights of a global investment portfolio based on trends and expected changes in macroeconomic factors.
 
+---
+
+
+
 ## L3 Private Wealth Management
 
 ### Reading 28: Overview 
@@ -150,7 +154,7 @@ h. recommend and justify changes in the component weights of a global investment
 **b.**   discuss **information needed** in advising private clients;
 
 - family
-- work background
+- work/career background
 - source of wealth: active(自有资金承担风险)/ passive（自有资金不承担风险）
 - Personal Balance Sheet
 
@@ -194,11 +198,12 @@ g.  evaluate **capital sufficiency** in relation to client goals;
 h.  discuss the principles of **retirement planning;**
 
 - Mortality tables
-
 - Annuities
-
 - Monte Carlo Sim
-
+  - return assumption：解读表格==In 75% of the trails, the portfolio gains after 10 years exceed ***.==
+  - 优缺点
+    - pros: ==considers path dependency==, ==clearly display tradeoffs of risk and return==, ==properly modeled tax analysis==, ==undertianding of short term and long tern risk==, ==multi-period effects==
+    - cons:==historical data==, ==model risk==, ==tax modeling too simplistic==, 
 - Behavioural consideration
 
 i.    **discuss the parts of an investment policy statement (IPS) for a private client;**
@@ -307,6 +312,8 @@ h.   demonstrate how taxes and asset location relate to mean–variance optimiza
 
 - after-tax AA must also optimized asset location
 
+  ---
+  
   
 
 ### Reading30: Estate planning
@@ -338,20 +345,137 @@ c. determine a family’s **core capital and excess capital**, based on **mortal
 
 d. evaluate the **relative after-tax value of lifetime gifts and testamentary bequests;**
 
+- RV: gift over bequest
+  - tax free
+  - taxiable
+  - tax paid by donor
+  - charitable donation
+
+e. **explain the estate planning benefit** of making lifetime gifts when gift taxes are paid by the donor, rather than the recipient;
 
 
-e. explain the estate planning benefit of making lifetime gifts when gift taxes are paid by the donor, rather than the recipient;
 
-f. evaluate the after-tax benefits of basic estate planning strategies, including generation skipping, spousal exemptions, valuation discounts, and charitable gifts;
+f. evaluate the after-tax benefits of basic estate planning strategies, including **generation skipping**, **spousal exemptions,** **valuation discounts**, and **charitable gifts**;
 
-g. explain the basic structure of a trust and discuss the differences between revocable and irrevocable trusts;
+- 30.3
 
-h. explain how life insurance can be a tax-efficient means of wealth transfer;
+g. explain the **basic structure of a trust** and discuss the differences between **revocable and irrevocable** trusts;
 
-i. discuss the two principal systems (source jurisdiction and residence jurisdiction) for establishing a country’s tax jurisdiction;
+- structure:
+  - settlor
+  - trustee
+  - beneficiaries
+- revocable: right to rescind
+- irrevocable: 
+- benefit:
+  - Avoid probate
+  - Avoid forced heirship
+  - Reduce tax
+  - Protest against claims of creditors
 
-j. discuss the possible income and estate tax consequences of foreign situated assets and foreign-sourced income;
+h. explain **how life insurance can be a tax-efficient means of wealth transfer;**
 
-k. evaluate a client’s tax liability under each of three basic methods (credit, exemption,and deduction) that a country may use to provide relief from double taxation;
+- Asset protection
+- Tax exempt
+- Avoid forced heirship
+- Avoid probate
+- provide liquidity
 
-l. discuss how increasing international transparency and information exchange among tax authorities affect international estate planning. 
+i. discuss the two principal systems (**source jurisdiction** and **residence jurisdiction**) for establishing a country’s tax jurisdiction;
+
+j. discuss the possible income and estate tax consequences of **foreign situated assets** and **foreign-sourced income**;
+
+k. evaluate a client’s tax liability under each of three basic methods (**credit, exemption,and deduction**) that a country may use to provide relief from double taxation;
+
+l. discuss how **increasing international transparency and information exchange** among tax authorities affect international estate planning. 
+
+------
+
+
+
+### Reading31: Concentrated Positions
+
+a. explain **investment risks associated with a concentrated position** in a single asset and discuss the appropriateness of reducing such risks;
+
+- systematic risk
+- company sepcific risk
+- property-sepcific risk
+
+b. describe typical **objectives** in managing concentrated positions;
+
+- Key
+  - reduce risk
+  - generate lidquidity
+  - tax optimization
+- Public share
+- Private businesses
+- Real Estate
+
+c. discuss **tax consequences and illiquidity** as considerations affecting the management of concentrated positions in publicly traded common shares, privately held businesses, and real estate;
+
+
+
+d. discuss **capital market and institutional constraints** on an investor’s ability to reduce a concentrated position;
+
+- IPO 'Lockup'
+- Blackout Periods
+- First refusal
+- 
+
+e. discuss **psychological considerations** that may make an investor reluctant to reduce his or her exposure to a concentrated position;
+
+
+
+f. describe advisers’ use of **goal-based planning** in managing concentrated positions;
+
+- Primary capital
+  - Personal risk bucket
+  - Market risk bucket
+- Surplus capital
+  - Aspriatonal risk bucket
+- ==reallocate to meet primary capital requirement==
+
+g.explain uses of **asset location** and **wealth transfers** in managing concentrated positions;
+
+- AA: to minimize transfer taxes
+- Estate Tax Freeze
+- Recapitalize the company
+- Family Limited Partnership
+
+h. describe strategies for managing concentrated positions in **publicly traded common shares**;
+
+- Equity Monetization(股权现金化)
+  - Remove risk ==> Borrow against hedged risk
+  - four tools:
+    - Short sale against the box (least expensive tool )
+    - Forward sale contract(OTC)
+    - Options ( $ -S = p - c$)
+    - Total return equity swap
+  - hedging:
+    - buy puts: ==unlimited upside potential==
+    - zero premium collar: ==limited==
+
+i. discuss **tax** considerations in the choice of **hedging strategy**;
+
+- Mismatch in character
+- Prepaid Variable Forwards(PVF)
+- Writing covered call
+
+j. describe strategies for managing concentrated positions in **privately held businesses**;
+
+- Sale to External buyers
+- Leveraged Recapitalization(Staged Exit)
+- Going through IPO
+- Divestiture
+- Sale to internal buyers
+- ESOP
+- Personal line of credit
+
+k. describe strategies for managing concentrated positions in **real estate**;
+
+- mortgage financing
+- Sale and Leaseback
+
+l. evaluate and recommend **techniques for tax efficiently** managing the risks of concentrated positions in publicly traded common stock, privately held businesses, and real estate.
+
+- 综合问题
