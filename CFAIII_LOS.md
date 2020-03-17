@@ -90,13 +90,33 @@ t. discuss challenges related to the calculation of after- tax returns;
 
 u. identify and explain errors and omissions in given performance presentations and recommend changes that would bring them into compliance with GIPS standards.（没有？视频09 32:40）
 
-## L3经济学考纲
+## L3经济学考纲(CME)
 
 ### Reading 10:
 
-a. discuss the role of, and a framework for, capital market expectations in the portfolio management process;
+定性的方法来做判断
 
-b. discuss challenges in developing capital market forecasts;
+a. discuss the **role of, and a framework** for, capital market expectations in the portfolio management process;
+
+
+
+b. discuss **challenges** in developing capital market forecasts;
+
+- 九大挑战：
+  - 有关数据的：
+    - Limitations of exonomic data: ==time lag==, ==calculation method==, ==rebase==
+    - Data mesurement errors and bias: : ==transcription error==
+    - Limitations of historical data: ==nonstationary==
+  - 有关时间的：
+    - Limitations of historical estimates: ==asynchronous==
+    - Ex post risk, Ex ante risk
+    - Biases in Analysis methods
+  - 条件，因果：
+    - conditoinal
+    - correlation
+  - 不可抗力
+    - psychological
+    - model uncertainty
 
 c. explain how exogenous shocks may affect economic growth trends;
 
@@ -117,6 +137,8 @@ j. identify and interpret macroeconomic, interest rate, and exchange rate linkag
  
 
 ### Reading 11:
+
+定量方法做判断
 
 a. discuss approaches to setting expectations for fixed- income returns;
 
@@ -479,3 +501,88 @@ k. describe strategies for managing concentrated positions in **real estate**;
 l. evaluate and recommend **techniques for tax efficiently** managing the risks of concentrated positions in publicly traded common stock, privately held businesses, and real estate.
 
 - 综合问题
+
+  
+
+  ---
+
+### Reading32: Risk Managment for Individuals
+
+a. compare the characteristics of **human capital and financial capital** as components of an individual’s total wealth;
+
+- economic balance sheet(holstic **)
+
+- Human capital: 
+
+  - $y:$ income volatility
+  - ==more volatile==, ==higher salary==, ==based on financial wealth==
+
+- Financial capital
+
+  
+
+b. discuss the relationships among **human capital, financial capital, and economic net worth**;
+
+- Net worth: financial capital的盈余部分
+- Net wealth:包括hunman capital and pension wealth的盈余
+
+c. discuss the **financial stages of life** for an individual;
+
+d. describe an **economic (holistic) balance sheet**;
+
+| Net Worth         |                      |
+| ----------------- | -------------------- |
+| human capital     | lifetime consumption |
+| pension(unvested) | bequests             |
+|                   |                      |
+
+e. discuss **risks** (earnings, premature death, longevity, property, liability, and health risks) in relation to human and financial capital;
+
+f. describe types of **insurance** relevant to personal financial planning;
+
+- life insurance
+  - temporary life insurance
+  - permanent life (==life time coverage==)
+    - whole life insurance
+    - universal life insurance
+
+g.describe the **basic elements of a life insurance** policy and how insurers **price** a life insurance policy;
+
+- basic
+  - The term and type
+  - The amount of benefit
+  - The contestability period
+-  price a L&H
+  - mortality expectation
+  - discount rate
+  - loading 
+
+h. discuss **the use of annuities** in personal financial planning;
+
+- ==low interest environment==
+- ==high inflation expectation==
+- liquidity
+
+i. discuss the **relative advantages and disadvantages** of fixed and variable annuities;
+
+- exp. return
+- fees
+- withdraw flexibility
+- inflatoin
+
+j. **analyze and critique** an insurance program;
+
+k.discuss how **asset allocation policy may be influenced** by the risk characteristics of human capital;
+
+- financial capital keeps low correlation with human capital
+
+l. recommend and justify **appropriate strategies for asset allocation and risk reduction** when given an investor profile of key inputs 
+
+- In IPS, HC should also be taken into consideration
+
+  ---
+
+  
+
+
+
