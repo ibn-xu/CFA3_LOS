@@ -92,7 +92,7 @@ u. identify and explain errors and omissions in given performance presentations 
 
 ## L3经济学考纲(CME)
 
-### Reading 10:
+### Reading 10: Macro considerations
 
 定性的方法来做判断
 
@@ -118,23 +118,57 @@ b. discuss **challenges** in developing capital market forecasts;
     - psychological
     - model uncertainty
 
-c. explain how exogenous shocks may affect economic growth trends;
+c. explain how exogenous shocks may affect **economic growth trends;**
 
-d. discuss the application of economic growth trend analysis to the formulation of capital market expectations; 
+d. discuss the application of economic growth trend **analysis** to the formulation of capital market expectations; 
 
-e. compare major approaches to economic forecasting;*
+- GDP growth:(三级考计算就考这个公式)
+  - growth from labo inputs:
+    - g from potential labor size
+    - g from labor force participation
+  - g from labor productivity
+    - g in increasing capital inputs
+    - growth in TFP
+- Anchoring asset returns to trend growth
 
-f. discuss how business cycles affect short- and long- term expectations; 
+e. compare major **approaches to economic forecasting**;*
 
-g. explain the relationship of inflation to the business cycle and the implications of inflation for cash, bonds, equity, and real estate returns;*
+- Econometric modeling
+- Economic indicators
+  - Leading:美债短期和长期的收益率之差
+  - Lagging:
+  - conincidance： 短期收益率，GDP growth rate
+- checklist approach
+-  pros and cons 
 
-h. discuss the effects of monetary and fiscal policy on business cycles;
+f. discuss how **business cycles** affect short- and long- term expectations; 
 
-i. interpret the shape of the yield curve as an economic predictor and discuss the relationship between the yield curve and fiscal and monetary policy;
+| Phase            | Inflation(lag) | Short rate(coin) | Stock price(lead) | yield curve(lead) |
+| ---------------- | -------------- | ---------------- | ----------------- | ----------------- |
+| Initial recovery |                | Bottoming        |                   |                   |
+| Early expansion  | remains low    |                  |                   |                   |
+| late expansion   |                |                  | topping out       |                   |
+| Slow down        |                | peaking          |                   |                   |
+| Contraction      | peaks          |                  | bottoming         |                   |
 
-j. identify and interpret macroeconomic, interest rate, and exchange rate linkages between economies.
+![phase](pic/phase.png)
 
- 
+g. explain the relationship of inflation to the business cycle and the implications of inflation for **cash, bonds, equity, and real estate returns**;*
+
+![inflation_effect](pic/inflation_effect.png)
+
+h. discuss the effects of **monetary and fiscal policy** on business cycles;
+
+- Taylor rule(monetary)
+- Fiscal policy : affect   $r_r$
+- Monetary policy: affect $\pi_e$
+- 
+
+i. interpret the shape of the **yield curve** as an economic predictor and discuss the relationship between the yield curve and fiscal and monetary policy;
+
+- yield curve 
+
+j. identify and interpret macroeconomic, interest rate, and exchange rate linkages **between economies**.  ![international_interactions](pic/international_interactions.png)
 
 ### Reading 11:
 
