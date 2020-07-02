@@ -104,7 +104,7 @@ b. discuss **challenges** in developing capital market forecasts;
 
 - 九大挑战：
   - 有关数据的：
-    - Limitations of exonomic data: ==time lag==, ==calculation method==, ==rebase==
+    - Limitations of economic data: ==time lag==, ==calculation method==, ==rebase==
     - Data mesurement errors and bias: : ==transcription error==
     - Limitations of historical data: ==nonstationary==
   - 有关时间的：
