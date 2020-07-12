@@ -98,8 +98,6 @@ u. identify and explain errors and omissions in given performance presentations 
 
 a. discuss the **role of, and a framework** for, capital market expectations in the portfolio management process;
 
-
-
 b. discuss **challenges** in developing capital market forecasts;
 
 - 九大挑战：
@@ -120,7 +118,7 @@ b. discuss **challenges** in developing capital market forecasts;
 
 c. explain how exogenous shocks may affect **economic growth trends;**
 
-d. discuss the application of economic growth trend **analysis** to the formulation of capital market expectations; 
+d. discuss the application of **economic growth trend analysis** to the formulation of capital market expectations; 
 
 - GDP growth:(三级考计算就考这个公式)
   - growth from labo inputs:
@@ -131,56 +129,75 @@ d. discuss the application of economic growth trend **analysis** to the formulat
     - growth in TFP
 - Anchoring asset returns to trend growth
 
-e. compare major **approaches to economic forecasting**;*
+e. compare major **approaches to economic forecasting**;
 
 - Econometric modeling
 - Economic indicators
-  - Leading:美债短期和长期的收益率之差
+  - Leading:美债短期和长期的收益率之差,社会总融资额
   - Lagging:
-  - conincidance： 短期收益率，GDP growth rate
+  - conincidance： 短期收益率，GDP growth rate与trend相比
 - checklist approach
 -  pros and cons 
 
 f. discuss how **business cycles** affect short- and long- term expectations; 
 
-| Phase            | Inflation(lag) | Short rate(coin) | Stock price(lead) | yield curve(lead) |
+| Phase            | Inflation(lag) | Short rate(coin) | Stock price(lead) | yield curve(coin) |
 | ---------------- | -------------- | ---------------- | ----------------- | ----------------- |
-| Initial recovery |                | Bottoming        |                   |                   |
-| Early expansion  | remains low    |                  |                   |                   |
-| late expansion   |                |                  | topping out       |                   |
-| Slow down        |                | peaking          |                   |                   |
-| Contraction      | peaks          |                  | bottoming         |                   |
+| Initial recovery |                | Bottoming        |                   | steepens          |
+| Early expansion  | remains low    |                  |                   | flattening        |
+| late expansion   |                |                  | topping out       | flattening        |
+| Slow down        |                | peaking          |                   | invert            |
+| Contraction      | peaks          |                  | bottoming         | steepens          |
 
-![phase](pic/phase.png)
+![phase](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/phase.PNG)
 
-g. explain the relationship of inflation to the business cycle and the implications of inflation for **cash, bonds, equity, and real estate returns**;*
+g. explain the **relationship of inflation to the business cycle** and the implications of inflation for **cash, bonds, equity, and real estate returns**;
 
-![inflation_effect](pic/inflation_effect.png)
+![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/inflation_effect.PNG)
 
 h. discuss the effects of **monetary and fiscal policy** on business cycles;
 
 - Taylor rule(monetary)
-- Fiscal policy : affect   $r_r$
-- Monetary policy: affect $\pi_e$
+- the mix
+  - Fiscal policy : affect   $r_r$
+  - Monetary policy: affect $\pi_e$
 - 
 
 i. interpret the shape of the **yield curve** as an economic predictor and discuss the relationship between the yield curve and fiscal and monetary policy;
 
 - yield curve 
 
-j. identify and interpret macroeconomic, interest rate, and exchange rate linkages **between economies**.  ![international_interactions](pic/international_interactions.png)
+j. identify and interpret **macroeconomic, interest rate, and exchange rate linkages** between economies.  ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/international_interactions.PNG)
 
-### Reading 11:
+### Reading 11: Forecasting asset class returns
 
 定量方法做判断
 
-a. discuss approaches to setting expectations for fixed- income returns;
+a. discuss approaches to setting expectations for **fixed- income** returns;
 
-b. discuss risks faced by investors in emerging market fixed- income securities and the country risk analysis techniques used to evaluate emerging market economies;
+- DCF
+- building blocks
+  - short-term default-free rate
+  - Term premium
+  - credit premium
+  - Liquidity premium
 
-c. discuss approaches to setting expectations for equity investment market returns;
+b. discuss risks faced by investors in **emerging market** **fixed- income** securities and the country risk analysis techniques used to evaluate emerging market economies;
 
-d. discuss risks faced by investors in emerging market equity securities;*
+- ecomomic risks
+- political and legal risks
+
+c. discuss approaches to setting **expectations for equity** investment market returns;
+
+- DCF: G-K model
+  - expected cash flow return: $D/P - \% \Delta S$
+  - expected nominal earning growth return: $\% \Delta E$
+  - expected repricing return: $\% \Delta P/E$ 以及CAPE和调整：补充视频07-16:00
+- equilibrium: Singer-Terhaar model
+  - fully integrated $RP_i^G = \rho * \sigma_i * (RP_{GM}/\sigma_{GM})$
+  - complete segmentation $RP_i^S = 1 * \sigma_i * (RP_i^S/\sigma_i)$
+
+d. discuss risks faced by investors in **emerging market equity** securities;*
 
 e. explain how economic and competitive factors can affect expectations for real estate investment markets and sector returns;
 
