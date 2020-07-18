@@ -90,7 +90,7 @@ t. discuss challenges related to the calculation of after- tax returns;
 
 u. identify and explain errors and omissions in given performance presentations and recommend changes that would bring them into compliance with GIPS standards.（没有？视频09 32:40）
 
-## L3经济学考纲(CME)
+## L3 经济学(CME)
 
 ### Reading 10: Macro considerations
 
@@ -199,13 +199,66 @@ c. discuss approaches to setting **expectations for equity** investment market r
 
 d. discuss risks faced by investors in **emerging market equity** securities;*
 
-e. explain how economic and competitive factors can affect expectations for real estate investment markets and sector returns;
+- less fully integrated
+- higher risk
 
-f. discuss major approaches to forecasting exchange rates;
+e. explain how **economic and competitive factors can affect expectations for real estate** investment markets and sector returns;
 
-g. discuss methods of forecasting volatility;
+- cap rate两个公式
 
-h. recommend and justify changes in the component weights of a global investment portfolio based on trends and expected changes in macroeconomic factors.
+f. discuss major approaches to forecasting **exchange rates**;
+
+- On goods and services
+- On capital flows
+
+g. discuss methods of **forecasting volatility**;
+
+- VCV matrix
+- multi-factor model
+- Shrinkage estimation
+- smoothed return
+- ARCH
+
+h. recommend and justify **changes in the component weights of a global investment portfolio** based on trends and expected changes in macroeconomic factors.
+
+---
+
+## L3 Equity
+
+### Reading22 Introduction
+
+a.  describe the **roles** of equities in the overall portfolio;
+
+b. describe how an equity manager’s investment universe can be **segmented**;
+
+c. describe the types of **income and costs** associated with owning and managing an equity portfolio and their potential effects on portfolio performance; 
+
+d. describe the potential benefits of **shareholder engagement** and the role an equity manager might play in shareholder engagement; 
+
+e. describe rationales for equity investment across the **passive–active spectrum**.
+
+### Reading23 Passive Equity Investing
+
+a. discuss considerations in choosing a **benchmark** for a passively managed equity portfolio; 
+
+- market cap
+- price-weighted
+- equality weighted
+- fundamental weighting
+
+effective number of stocks
+
+defensive or volatility reducing strategies
+
+b. compare **passive factor-based** strategies to **market-capitalization-weighted** indexing;
+
+c. compare different approaches to passive equity investing;
+
+d. compare the full replication, stratified sampling, and optimization approaches for the construction of passively managed equity portfolios; 
+
+e. discuss potential causes of tracking error and methods to control tracking error for passively managed equity portfolios; 
+
+f. explain sources of return and risk to a passively managed equity portfolio.
 
 ---
 
