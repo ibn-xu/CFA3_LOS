@@ -252,15 +252,131 @@ defensive or volatility reducing strategies
 
 b. compare **passive factor-based** strategies to **market-capitalization-weighted** indexing;
 
-c. compare different approaches to passive equity investing;
+- return-oriented
+- risk-oriented
+- diversification-oriented
 
-d. compare the full replication, stratified sampling, and optimization approaches for the construction of passively managed equity portfolios; 
+c. compare different **approaches** to passive equity investing;
 
-e. discuss potential causes of tracking error and methods to control tracking error for passively managed equity portfolios; 
+- pooled investments
+  - open-ended funds
+  - ETFs
+- Derivatives-based
+- SMA
 
-f. explain sources of return and risk to a passively managed equity portfolio.
+d. compare the **full replication**, **stratified sampling**, and **optimization** approaches for the construction of passively managed equity portfolios; 
+
+- full replication
+  - N < 1000
+  - U-shaped
+- stratified
+  - strata: mutually exclusive & exhaustive
+- optimization
+  - past market data
+- Blended approach
+
+e. discuss **potential causes** of tracking error and **methods to control** tracking error for passively managed equity portfolios; 
+
+f. explain **sources of return and risk** to a passively managed equity portfolio.
+
+- Attribution analysis
+- Security lending
+- Investor activism and engagement
+
+
+
+### Reading24 Active Equity Investing: strategies
+
+a. compare **fundamental** and **quantitative** approaches to active management;
+
+b. analyze **bottom-up** active strategies, including their rationale and associated processes;
+
+- value-based 
+- growth-based:GARP
+
+c. analyze **top-down** active strategies, including their rationale and associated processes;
+
+d. analyze **factor-based** active strategies, including their rationale and associated processes;
+
+e. analyze **activist strategies,** including their rationale and associated processes;
+
+f. describe active strategies based on **statistical arbitrage and market microstructure**;
+
+g. describe how **fundamental active** investment strategies are created;
+
+h. describe how **quantitative active** investment strategies are created;
+
+i. discuss **equity investment style** classifications.
+
+- HBSA
+  - Morning-star & Thomsom Reuters Lipper
+  - MSCI & FTSE
+- RBSA
+- Self-identification
+
+
+
+### Reading25  Active Equity Investing: portfolio construction
+
+1. describe elements of a manager’s **investment philosophy** that influence the  portfolio construction process; 
+
+   - fundamentals
+   - building blocks
+
+2. discuss **approaches for constructing** actively managed equity portfolios; 
+
+   - systematic vs discretionary & top-down vs botton up
+
+3. distinguish between **Active Share** and **active risk** and discuss how each  measure relates to a manager’s investment strategy; 
+
+   
+
+4. discuss the application of **risk budgeting** concepts in portfolio  construction; 
+
+   - absolute risk 
+   - relative risk
+     - using $ activetisk $ & $ \Delta weight $ 
+
+5. discuss risk measures that are incorporated in equity portfolio construction and describe how **limits** set on these measures affect  portfolio construction; 
+
+   - Heuristic
+   - Formal
+
+6. discuss how **assets under management**, **position size**, **market liquidity**,  and **portfolio turnover** affect equity portfolio construction decisions;
+
+7. **evaluate the efficiency of a portfolio structure** given its investment mandate; 
+
+   - unexplained大小
+   - beta显著性
+   - active risk
+
+8. discuss the long-only, long extension, long/short, and equitized  market-neutral approaches to equity portfolio construction, including  their **risks, costs, and effects on potential alphas.** 
 
 ---
+
+## L3 Alternatives 
+
+### Reading 26 Hedge Fund
+
+a. discuss how hedge fund strategies may be **classified**; 
+
+b. discuss investment characteristics, strategy implementation, and role in a portfolio of equity-related hedge fund strategies; 
+
+c. discuss investment characteristics, strategy implementation, and role in a portfolio of event-driven hedge fund strategies; 
+
+d. discuss investment characteristics, strategy implementation, and role in a portfolio of relative value hedge fund strategies; 
+
+e. discuss investment characteristics, strategy implementation, and role in a portfolio of opportunistic hedge fund strategies; 
+
+f. discuss investment characteristics, strategy implementation, and role in a portfolio of specialist hedge fund strategies; 
+
+h. discuss investment characteristics, strategy implementation, and role in a portfolio of multi-manager hedge fund strategies; 
+
+i. describe how factor models may be used to understand hedge fund risk exposures; evaluate the impact of an allocation to a hedge fund strategy in a traditional investment portfolio. 
+
+### Reading 27 Asset allocation to alternatives
+
+----
 
 
 
