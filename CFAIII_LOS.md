@@ -223,7 +223,7 @@ h. recommend and justify **changes in the component weights of a global investme
 
 ---
 
-## L3 Equity
+## L3 SS09-10 Equity
 
 ### Reading22 Introduction
 
@@ -354,27 +354,66 @@ i. discuss **equity investment style** classifications.
 
 ---
 
-## L3 Alternatives 
+## L3  SS11 Alternatives 
 
 ### Reading 26 Hedge Fund
 
 a. discuss how hedge fund strategies may be **classified**; 
 
-b. discuss investment characteristics, strategy implementation, and role in a portfolio of equity-related hedge fund strategies; 
+b. discuss investment characteristics, strategy implementation, and role in a portfolio of **equity-related** hedge fund strategies; 
 
-c. discuss investment characteristics, strategy implementation, and role in a portfolio of event-driven hedge fund strategies; 
+- long-short
+- delicated short , short biased
+- equity market neutral
 
-d. discuss investment characteristics, strategy implementation, and role in a portfolio of relative value hedge fund strategies; 
+c. discuss investment characteristics, strategy implementation, and role in a portfolio of **event-driven** hedge fund strategies; 
 
-e. discuss investment characteristics, strategy implementation, and role in a portfolio of opportunistic hedge fund strategies; 
+- merger arbitrage
+- distressed securities
 
-f. discuss investment characteristics, strategy implementation, and role in a portfolio of specialist hedge fund strategies; 
+d. discuss investment characteristics, strategy implementation, and role in a portfolio of **relative value** hedge fund strategies; 
 
-h. discuss investment characteristics, strategy implementation, and role in a portfolio of multi-manager hedge fund strategies; 
+- fixed income arbitrage
+- convertible bond arbitrage
 
-i. describe how factor models may be used to understand hedge fund risk exposures; evaluate the impact of an allocation to a hedge fund strategy in a traditional investment portfolio. 
+e. discuss investment characteristics, strategy implementation, and role in a portfolio of **opportunistic** hedge fund strategies; 
+
+- Global Macro 
+- Managed Futures
+
+f. discuss investment characteristics, strategy implementation, and role in a portfolio of **specialist** hedge fund strategies; 
+
+- Volatility Trading
+- Reinsurance/Life Settlements
+
+h. discuss investment characteristics, strategy implementation, and role in a portfolio of **multi-manager** hedge fund strategies; 
+
+- FOF
+- multi-strategy hedge funds
+
+i. describe how **factor models** may be used to understand hedge fund risk exposures; evaluate the impact of an allocation to a hedge fund strategy in a traditional investment portfolio. 
 
 ### Reading 27 Asset allocation to alternatives
+
+a. explain the **roles** that alternative investments play in multi-asset portfolios; 
+
+b. compare alternative investments and bonds as risk mitigators in relation to a long equity position; 
+
+c. compare traditional and risk-based approaches to defining the investment opportunity set, including alternative investments; 
+
+d. discuss **investment considerations** that are important in allocating to different types of alternative investments; 
+
+e. discuss **suitability** considerations in allocating to alternative investments; 
+
+f. discuss **approaches** to asset allocation to alternative investments; 
+
+- Monte Carlo
+- Portfolio Optimizaition
+- Risk Factor-Based opt
+
+g. discuss the importance of **liquidity planning** in allocating to alternative investments; 
+
+h. discuss considerations in **monitoring** alternative investment programs.
 
 ----
 
