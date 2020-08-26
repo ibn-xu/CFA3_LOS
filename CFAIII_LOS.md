@@ -221,6 +221,107 @@ g. discuss methods of **forecasting volatility**;
 
 h. recommend and justify **changes in the component weights of a global investment portfolio** based on trends and expected changes in macroeconomic factors.
 
+## L3 SS07-08 Fixed Income
+
+### R18 Intro 
+
+1. discuss **roles** of fixed-income securities in portfolios;
+   1. Diversification
+   2. Regular cash flow
+   3. Infaltion hedge
+2.  describe how fixed-income **mandates** may be classified and compare  features of the mandates; 
+   1. LDI (4 approaches)
+   2. Total return( 3 approaches)
+3. describe bond market **liquidity**, including the differences among market  sub-sectors, and discuss the effect of liquidity on fixed-income  portfolio management;
+4. describe and interpret a **model for fixed-income returns**; 
+5. discuss the use of **leverage**, alternative methods for leveraging, and risks that leverage creates in fixed-income portfolios; 
+6. discuss differences in managing fixed-income portfolios for **taxable and  tax-exempt investors**.
+
+### R19 Liability-driven and Index-Based strategies
+
+1. describe **liability-driven investing**; 
+
+   liabilities are given and asset are managed.
+
+2. evaluate strategies for managing a **single liability**; 
+
+3. compare strategies for a single liability and for **multiple liabilities**,  including alternative means of implementation; 
+
+4. **evaluate liability-based strategies** under various interest rate scenarios and select a strategy to achieve a portfolio’s objectives; 
+
+   1. futures
+   2. swaps
+   3. swaption
+   4. swaption collar
+
+5. explain **risks** associated with managing a portfolio against a liability structure; 
+
+   1. model risks
+   2. credit risks
+   3. liquidity risk
+
+6. discuss bond indexes and the **challenges of managing a fixed-income portfolio to mimic the characteristics of a bond index;** 
+
+   1. much larger
+   2. OTC
+   3. illiquid
+   4. Indexes change frequently
+   5. changes in ratings
+   6. rebalancing occurs monthly
+
+7. compare **alternative methods** for establishing bond market exposure **passively**; 
+
+   1. stratified sampling/enhance indexing
+   2. cash flow methodology
+   3. mutual funds
+   4. TRS
+
+8. discuss **criteria for selecting a benchmark** and justify the selection of a benchmark; 
+
+   1. clear
+   2. transparent
+   3. investability
+   4. known daily valuation and availability of past returns
+   5. known turnover
+
+9. describe construction, benefits, limitations, and risk–return characteristics of a **laddered bond portfolio.**
+
+   
+
+   ---
+
+   
+
+### R20 Yield curve Strategies
+
+1. describe major types of **yield curve strategies**; 
+   1. stable yield curve
+      1. B & H
+      2. ride yield curve
+      3. sell convexity
+      4. carry trade
+   2. parallel shift
+   3. Non-parallel shift
+2. explain how to execute a **carry trade**; 
+3. explain **why and how** a fixed-income portfolio manager might choose to **alter portfolio convexity**; 
+4. formulate a portfolio positioning strategy given forward interest rates and an interest rate view; 
+5. explain how derivatives may be used to implement yield curve strategies; 
+6. evaluate a portfolio’s sensitivity to a change in curve slope using key rate durations of the portfolio and its benchmark; 
+7. discuss inter-market curve strategies; 
+8. construct a duration-neutral government bond portfolio to profit from a change in yield curve curvature; 
+9. evaluate the expected return and risks of a yield curve strategy.
+
+### R22 Fixed-Income Active Management: Credit strategies
+
+1. describe risk considerations in investment-grade and high-yield corporate bond portfolios; 
+2. compare the use of credit spread measures in portfolio construction; 
+3. discuss bottom-up approaches to credit strategies; 
+4. discuss top-down approaches to credit strategies; 
+5. discuss liquidity risk in credit markets and how liquidity risk can be managed in a credit portfolio; 
+6. describe how to assess and manage tail risk in credit portfolios; 
+7. discuss considerations in constructing and managing portfolios across international credit markets; 
+8. describe the use of structured financial instruments as an alternative to corporate bonds in credit portfolios. 
+
 ---
 
 ## L3 SS09-10 Equity
