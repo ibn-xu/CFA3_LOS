@@ -90,6 +90,38 @@ t. discuss challenges related to the calculation of after- tax returns;
 
 u. identify and explain errors and omissions in given performance presentations and recommend changes that would bring them into compliance with GIPS standards.（没有？视频09 32:40）
 
+---
+
+## L3 SS3 Behavioral Finance
+
+### R7 The BF perspective
+
+1. contrast **traditional** and **behavioral finance** perspectives on investor decision making; 
+2. contrast **expected utility** and **prospect theories** of investment decision making; 
+3. discuss the effect that **cognitive** limitations and **bounded rationality** may have on investment decision making; 
+4. compare **traditional and behavioral finance perspectives** on portfolio construction and the behavior of capital markets. 
+
+### R8 The BF Bias of individuals
+
+1. distinguish between **cognitive errors** and **emotional biases**;
+2. discuss commonly recognized behavioral biases and their implications for financial decision making;
+3. identify and evaluate an individual’s behavioral biases;
+4. evaluate how behavioral biases affect investment policy and asset allocation decisions and recommend approaches to mitigate their effects. 
+
+### R9 BF and investment process
+
+1. explain the uses and limitations of classifying investors into personality  types; 
+2. discuss how behavioral factors affect adviser–client interactions; 
+3. discuss how behavioral factors influence portfolio construction; 
+4. explain how behavioral finance can be applied to the process of  portfolio construction; 
+5. discuss how behavioral factors affect analyst forecasts and recommend  remedial actions for analyst biases; 
+6. discuss how behavioral factors affect investment committee decision  making and recommend techniques for mitigating their effects; 
+7. describe how behavioral biases of investors can lead to market  characteristics that may not be explained by traditional finance. 
+
+---
+
+
+
 ## L3 经济学(CME)
 
 ### Reading 10: Macro considerations
@@ -298,29 +330,89 @@ h. recommend and justify **changes in the component weights of a global investme
    1. stable yield curve
       1. B & H
       2. ride yield curve
-      3. sell convexity
+      3. sell convexity  -> sell options
       4. carry trade
    2. parallel shift
+      1. known direction: Duration management 
+         1. leverage
+         2. derivatives
+      2. unknown direction: buy convexity
+         1. buying options( embedded bonds)
+         2. increase dispersion
    3. Non-parallel shift
+      1. steepness changes
+         1. bullet: steepening
+         2. barbell: flattening
+      2. curvature changes ==> more/less curvature
+         1. butterfly
+         2. condor
 2. explain how to execute a **carry trade**; 
+   - single-currency
+     - maturity mismatch
+   - dual-currency
+     - keep FX exposure
+       - 短融长投
+       - 高投低融
+       - fix-receiver swap
+       - long future
+     - eliminate FX exposure
+       - unhedge strategy
+       - hedged strategy
 3. explain **why and how** a fixed-income portfolio manager might choose to **alter portfolio convexity**; 
-4. formulate a portfolio positioning strategy given forward interest rates and an interest rate view; 
-5. explain how derivatives may be used to implement yield curve strategies; 
-6. evaluate a portfolio’s sensitivity to a change in curve slope using key rate durations of the portfolio and its benchmark; 
-7. discuss inter-market curve strategies; 
-8. construct a duration-neutral government bond portfolio to profit from a change in yield curve curvature; 
-9. evaluate the expected return and risks of a yield curve strategy.
+4. **formulate a portfolio positioning strategy** given forward interest rates and an interest rate view; 
+5. explain how **derivatives may be used to implement yield curve strategies**; 
+6. **evaluate** a portfolio’s sensitivity to a change in curve slope using **key rate durations** of the portfolio and its benchmark; 
+7. discuss **inter-market curve strategies**; 
+8. construct a duration-neutral government bond portfolio to profit from a **change in yield curve curvature**; 
+9. **evaluate** the expected **return and risks** of a yield curve strategy.
+   1. return: 5步法
+   2. risk: 
+      1. shift
+      2. twist
+      3. butterfly
 
-### R22 Fixed-Income Active Management: Credit strategies
+### R21 Fixed-Income Active Management: Credit strategies
 
-1. describe risk considerations in investment-grade and high-yield corporate bond portfolios; 
-2. compare the use of credit spread measures in portfolio construction; 
-3. discuss bottom-up approaches to credit strategies; 
-4. discuss top-down approaches to credit strategies; 
-5. discuss liquidity risk in credit markets and how liquidity risk can be managed in a credit portfolio; 
-6. describe how to assess and manage tail risk in credit portfolios; 
-7. discuss considerations in constructing and managing portfolios across international credit markets; 
-8. describe the use of structured financial instruments as an alternative to corporate bonds in credit portfolios. 
+1. describe **risk considerations in investment-grade and high-yield corporate bond** portfolios; 
+   1. investment
+      1. duration risk
+      2. credit migration risk, spread risk, interest rate risk
+      3. spread duration
+   2. high-yield
+      1. credit risk
+      2. liquidity risk
+2. compare **the use of credit spread measures** in portfolio construction;  
+   1. OAS
+   2. *Excess Return* = $ s*t - \Delta s * SD - t*p*l  $  (在bottonup 和 topdown中考察计算) 
+3. discuss **bottom-up** approaches to credit strategies;  
+   1. excess return 计算
+   2. **spread curve**
+   3. portfolio construction
+   4. securities choosing
+4. discuss **top-down** approaches to credit strategies; 
+   1. macro factors
+   2. boarder sector divisions
+   3. credit quality, DTS
+   4. 
+5. discuss **liquidity risk** in credit markets and how liquidity risk can be **managed** in a credit portfolio; 
+   1. measure liquidity
+      1. trading volume
+      2. spread sensitivity to fund outflows
+      3. bid-ask spread
+   2. manage liquidity
+      1. holding cash
+      2. managing position sizes
+      3. holding liquid, non-benchmark bonds
+      4. use CDS index derivatives
+      5. ETFs
+6. describe how to **assess and manage tail risk** in credit portfolios; 
+7. discuss considerations in constructing and managing portfolios across **international credit markets;**  
+   1. 结论：不可以投emerging markets
+8. describe **the use of structured financial instruments** as an alternative to corporate bonds in credit portfolios. 
+   1. MBS
+   2. ABS
+   3. CDOs
+   4. covered bonds
 
 ---
 
@@ -520,7 +612,7 @@ h. discuss considerations in **monitoring** alternative investment programs.
 
 
 
-## L3 Private Wealth Management
+## L3 SS12 Private Wealth Management
 
 ### Reading 28: Overview 
 
@@ -944,5 +1036,31 @@ l. recommend and justify **appropriate strategies for asset allocation and risk 
 
   
 
+## L3 SS14 Instutional Investors
 
+### R33 
+
+1. discuss **common characteristics** of institutional investors as a group; 
+2. discuss **investment policy of institutional investors**; 
+3. discuss the **stakeholders** in the portfolio, the **liabilities**, the  **investment time horizons,** and the **liquidity** needs of different types of  institutional investors; 
+4. describe the focus of **legal, regulatory, and tax constraints** affecting  different types of institutional investors; 
+5. evaluate risk considerations of private defined benefit (**DB**) pension  plans in relation to 1) plan **funded status**, 2) sponsor financial  strength, 3) interactions between the sponsor’s business and the fund’s  investments, 4) plan design, and 5) workforce characteristics; 
+6. prepare the investment **objectives** section of an institutional investor’s investment policy statement; 
+7. evaluate the **investment policy statement** of an institutional investor; 
+8. evaluate the investment **portfolio** of a private DB plan, sovereign wealth fund, university endowment, and private foundation; 
+9. describe considerations affecting the **balance sheet management** of banks  and insurers.
+
+
+
+---
+
+## L3 SS15 Trading
+
+### R34 Trading strategy and execution
+
+
+
+### R35 Portfolio performance evaluation
+
+### R36 Investment manager selection
 
