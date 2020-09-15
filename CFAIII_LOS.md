@@ -887,8 +887,6 @@ b. describe typical **objectives** in managing concentrated positions;
 
 c. discuss **tax consequences and illiquidity** as considerations affecting the management of concentrated positions in publicly traded common shares, privately held businesses, and real estate;
 
-
-
 d. discuss **capital market and institutional constraints** on an investor’s ability to reduce a concentrated position;
 
 - IPO 'Lockup'
