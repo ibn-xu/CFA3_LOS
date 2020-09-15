@@ -122,7 +122,7 @@ u. identify and explain errors and omissions in given performance presentations 
 
 
 
-## L3 经济学(CME)
+## L3 SS4 经济学(CME)
 
 ### Reading 10: Macro considerations
 
@@ -252,6 +252,76 @@ g. discuss methods of **forecasting volatility**;
 - ARCH
 
 h. recommend and justify **changes in the component weights of a global investment portfolio** based on trends and expected changes in macroeconomic factors.
+
+---
+
+## L3 SS5 Asset Allocation
+
+### Reading 12 Overview
+
+1. describe elements of effective investment governance and investment governance  considerations in asset allocation; 
+2. prepare an economic balance sheet for a client and interpret its  implications for asset allocation; 
+3. compare the investment objectives of asset-only, liability-relative, and goals-based asset allocation approaches; 
+4. contrast concepts of risk relevant to asset-only, liability-relative,  and goals-based asset allocation approaches; 
+5. explain how asset classes are used to represent exposures to systematic  risk and discuss criteria for asset class specification; 
+6. explain the use of risk factors in asset allocation and their relation  to traditional asset class–based approaches; 
+7. select and justify an asset allocation based on an investor’s objectives and constraints; 
+8. describe the use of the global market portfolio as a baseline portfolio  in asset allocation; 
+9. discuss strategic implementation choices in asset allocation, including  passive/active choices and vehicles for implementing passive and active  mandates; 
+10. discuss strategic considerations in rebalancing asset allocations
+
+### Reading 13 Principles
+
+1. describe and critique the use of mean–variance optimization in asset allocation; 
+2. recommend and justify an asset allocation using mean–variance optimization; 
+3. interpret and critique an asset allocation in relation to an investor’s economic balance sheet; 
+4. discuss asset class liquidity considerations in asset allocation; 
+5. explain absolute and relative risk budgets and their use in determining and implementing an asset allocation; 
+6. describe how client needs and preferences regarding investment risks can be incorporated into asset allocation; 
+7. discuss the use of Monte Carlo simulation and scenario analysis to evaluate the robustness of an asset allocation; 
+8. describe the use of investment factors in constructing and analyzing an asset allocation; 
+9. recommend and justify an asset allocation based on the global market portfolio; 
+10. describe and evaluate characteristics of liabilities that are relevant to asset allocation; 
+11. discuss approaches to liability-relative asset allocation; 
+12. recommend and justify a liability-relative asset allocation; 
+13. recommend and justify an asset allocation using a goals-based approach; 
+14. describe and critique heuristic and other approaches to asset allocation; 
+15. discuss factors affecting rebalancing policy
+
+### Reading 14  AA
+
+1. discuss asset size, liquidity needs, time horizon, and regulatory or other considerations as constraints on asset allocation;
+2. discuss tax considerations in asset allocation and rebalancing;
+3. recommend and justify revisions to an asset allocation given change(s) in investment objectives and/or constraints;
+4. discuss the use of short-term shifts in asset allocation;
+5. identify behavioral biases that arise in asset allocation and recommend methods to overcome them.
+
+---
+
+## L3 SS6 Derivatives & Currency
+
+### Reading 15 Option strategies
+
+1. demonstrate how an asset’s returns may be replicated by using  options;     
+2. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a covered call position;     
+3. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a protective put position;     
+4. compare the delta of covered call and protective put positions with  the position of being long an asset and short a forward on the  underlying asset;    
+5. compare the effect of buying a call on a short underlying position  with the effect of selling a put on a short underlying position;     
+6. discuss the investment objective(s), structure, payoffs, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of the following option strategies: bull spread, bear spread, straddle, and collar;     
+7. describe uses of calendar spreads;     
+8. discuss volatility skew and smile;     
+9. identify and evaluate appropriate option strategies consistent with  given investment objectives;     
+10. demonstrate the use of options to achieve targeted equity risk  exposures.
+
+### Reading 16 Swaps, forwards, and Future strategies
+
+
+
+### Reading 17 Currency managment
+
+
+
+---
 
 ## L3 SS07-08 Fixed Income
 
@@ -612,7 +682,7 @@ h. discuss considerations in **monitoring** alternative investment programs.
 
 
 
-## L3 SS12 Private Wealth Management
+## L3 SS12-13 Private Wealth Management
 
 ### Reading 28: Overview 
 
