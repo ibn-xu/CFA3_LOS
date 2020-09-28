@@ -48,11 +48,11 @@ d. recommend practices and procedures designed to prevent violations of the Asse
 
 ### **Reading 6**：GIPS
 
-a. discuss the objectives, key characteristics, and scope of the GIPS standards and their benefits to prospective clients and investment managers;*
+a. discuss the **objectives**, key characteristics, and **scope** of the GIPS standards and their benefits to prospective clients and investment managers;*
 
 b. explain the fundamentals of compliance with the GIPS standards, including the **definition of the firm（0.A.12）** **and the firm’s definition of discretion****（没有具体哪一条）;*针对条款0
 
-c. explain the requirements and recommendations of the GIPS standards with respect to input data, including accounting policies related to valuation and performance measurement;针对条款1
+c. explain the requirements and recommendations of the GIPS standards with respect to **input data**, including accounting policies related to **valuation and performance measurement**;针对条款1
 
 d. discuss the requirements of the GIPS standards with respect to return calculation methodologies, including the treatment of external cash flows（2.A.2）, cash and cash equivalents（2.A.3）, and expenses and fees(2.A.4-5);条款2
 
@@ -136,11 +136,11 @@ b. discuss **challenges** in developing capital market forecasts;
   - 有关数据的：
     - Limitations of economic data: ==time lag==, ==calculation method==, ==rebase==
     - Data mesurement errors and bias: : ==transcription error==
-    - Limitations of historical data: ==nonstationary==
+      - Limitations of historical data: ==nonstationary==
   - 有关时间的：
     - Limitations of historical estimates: ==asynchronous==
     - Ex post risk, Ex ante risk
-    - Biases in Analysis methods
+    - Biases in Analysis methods；data mining ,time period bias
   - 条件，因果：
     - conditoinal
     - correlation
@@ -152,7 +152,7 @@ c. explain how exogenous shocks may affect **economic growth trends;**
 
 d. discuss the application of **economic growth trend analysis** to the formulation of capital market expectations; 
 
-- GDP growth:(三级考计算就考这个公式)
+- ==GDP growth==:(三级考计算就考这个公式)
   - growth from labo inputs:
     - g from potential labor size
     - g from labor force participation
@@ -173,13 +173,13 @@ e. compare major **approaches to economic forecasting**;
 
 f. discuss how **business cycles** affect short- and long- term expectations; 
 
-| Phase            | Inflation(lag) | Short rate(coin) | Stock price(lead) | yield curve(coin) |
-| ---------------- | -------------- | ---------------- | ----------------- | ----------------- |
-| Initial recovery |                | Bottoming        |                   | steepens          |
-| Early expansion  | remains low    |                  |                   | flattening        |
-| late expansion   |                |                  | topping out       | flattening        |
-| Slow down        |                | peaking          |                   | invert            |
-| Contraction      | peaks          |                  | bottoming         | steepens          |
+| Phase            | Inflation(lag) | Short rate(coin) | Stock price(lead) | yield curve(leading) |
+| ---------------- | -------------- | ---------------- | ----------------- | -------------------- |
+| Initial recovery |                | Bottoming        |                   | steepens             |
+| Early expansion  | remains low    |                  |                   | flattening           |
+| late expansion   |                |                  | topping out       | flattening           |
+| Slow down        |                | peaking          |                   | invert               |
+| Contraction      | peaks          |                  | bottoming         | steepens             |
 
 ![phase](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/phase.PNG)
 
@@ -494,9 +494,28 @@ a.  describe the **roles** of equities in the overall portfolio;
 
 b. describe how an equity manager’s investment universe can be **segmented**;
 
+- By size and style
+
 c. describe the types of **income and costs** associated with owning and managing an equity portfolio and their potential effects on portfolio performance; 
 
+- income:
+  - div , security lending
+  - Ancillary strategies
+- fees:
+  - management fees & administrator fees
+  - marketing fees
+  - trading costs
+
 d. describe the potential benefits of **shareholder engagement** and the role an equity manager might play in shareholder engagement; 
+
+- benefits:
+  - free rider
+  - transparent information
+  - effective governance
+- cons:
+  - time consuming
+  - near term target
+  - interest conflict 
 
 e. describe rationales for equity investment across the **passive–active spectrum**.
 
@@ -538,7 +557,16 @@ d. compare the **full replication**, **stratified sampling**, and **optimization
   - past market data
 - Blended approach
 
-e. discuss **potential causes** of tracking error and **methods to control** tracking error for passively managed equity portfolios; 
+e. discuss potential causes of tracking error and methods to control **tracking error** for passively managed equity portfolios; 
+
+- potential causes:
+  - managment fee
+  - intraday trading
+  - cash drag
+  - sample portfolio
+- control:
+  - trade off 
+  - minimize cash held
 
 f. explain **sources of return and risk** to a passively managed equity portfolio.
 
@@ -560,6 +588,9 @@ b. analyze **bottom-up** active strategies, including their rationale and associ
 c. analyze **top-down** active strategies, including their rationale and associated processes;
 
 d. analyze **factor-based** active strategies, including their rationale and associated processes;
+
+- hedge portfolio approach
+- research factor timing
 
 e. analyze **activist strategies,** including their rationale and associated processes;
 
@@ -599,6 +630,8 @@ i. discuss **equity investment style** classifications.
    - absolute risk 
    - relative risk
      - using $ activetisk $ & $ \Delta weight $ 
+   - appropriate level: 
+     - leverage will reduce expected compounded return in a multi-period setting
 
 5. discuss risk measures that are incorporated in equity portfolio construction and describe how **limits** set on these measures affect  portfolio construction; 
 
@@ -662,7 +695,7 @@ a. explain the **roles** that alternative investments play in multi-asset portfo
 
 b. compare alternative investments and bonds as risk mitigators in relation to a long equity position; 
 
-c. compare traditional and risk-based approaches to defining the investment opportunity set, including alternative investments; 
+c. compare traditional and risk-based approaches to defining the investment **opportunity set**, including alternative investments; 
 
 d. discuss **investment considerations** that are important in allocating to different types of alternative investments; 
 
@@ -1131,4 +1164,3 @@ l. recommend and justify **appropriate strategies for asset allocation and risk 
 ### R35 Portfolio performance evaluation
 
 ### R36 Investment manager selection
-
