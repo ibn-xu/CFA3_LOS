@@ -302,24 +302,44 @@ h. recommend and justify **changes in the component weights of a global investme
 
 ### Reading 15 Option strategies
 
-1. demonstrate how an asset’s returns may be replicated by using  options;     
-2. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a covered call position;     
-3. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a protective put position;     
-4. compare the delta of covered call and protective put positions with  the position of being long an asset and short a forward on the  underlying asset;    
+1. demonstrate how **an asset’s returns may be replicated** by using  options;     
+2. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a **covered call** position;     
+3. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a **protective put** position;     
+4. compare the **delta** of covered call and protective put positions with  the position of being long an asset and short a forward on the underlying asset;    
 5. compare the effect of buying a call on a short underlying position  with the effect of selling a put on a short underlying position;     
-6. discuss the investment objective(s), structure, payoffs, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of the following option strategies: bull spread, bear spread, straddle, and collar;     
-7. describe uses of calendar spreads;     
-8. discuss volatility skew and smile;     
-9. identify and evaluate appropriate option strategies consistent with  given investment objectives;     
+6. discuss the investment objective(s), structure, payoffs, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of the following option strategies: **bull spread, bear spread, straddle, and collar;**     
+7. describe uses of **calendar spreads**;     
+8. discuss **volatility skew and smile**;     
+9. identify and evaluate appropriate **option strategies** consistent with  given investment objectives;     
 10. demonstrate the use of options to achieve targeted equity risk  exposures.
 
 ### Reading 16 Swaps, forwards, and Future strategies
 
+1. demonstrate how **interest rate** swaps, forwards, and futures can be used to modify a portfolio’s risk and return;
 
+2. demonstrate how **currency** swaps, forwards, and futures can be used to modify a portfolio’s risk and return;
+
+3. demonstrate how **equity** swaps, forwards, and futures can be used to modify a portfolio’s risk and return;
+
+4. demonstrate the use of **volatility** derivatives and variance swaps;
+
+5. demonstrate the use of derivatives to achieve targeted **equity and interest rate risk exposures**;
+
+6. demonstrate the **use of derivatives in asset allocation**, rebalancing, and inferring market expectations
 
 ### Reading 17 Currency managment
 
-
+1. analyze the effects of **currency movements** on portfolio risk and return;
+2. discuss **strategic** choices in currency management;
+3. formulate an appropriate **currency management program** given financial market conditions and portfolio objectives and constraints;
+4. compare **active** currency trading strategies based on economic fundamentals,  technical analysis, carry-trade, and volatility trading;
+5. describe how changes in factors underlying active trading strategies affect **tactical trading** decisions;
+6. describe how **forward contracts and FX (foreign exchange) swaps** are used to adjust hedge ratios;
+7. describe trading strategies used to **reduce hedging costs** and modify the risk–return characteristics of a foreign-currency portfolio;
+   1. forward
+   2. option
+8. describe the use of **cross-hedges, macro-hedges, and minimum-variance-hedge ratios** in portfolios exposed to multiple foreign currencies;
+9. discuss challenges for managing **emerging market** currency exposures.
 
 ---
 
@@ -349,7 +369,7 @@ h. recommend and justify **changes in the component weights of a global investme
 
 3. compare strategies for a single liability and for **multiple liabilities**,  including alternative means of implementation; 
 
-4. **evaluate liability-based strategies** under various interest rate scenarios and select a strategy to achieve a portfolio’s objectives; 
+4. evaluate liability-based strategies under **various interest rate scenarios** and select a strategy to achieve a portfolio’s objectives; 
 
    1. futures
    2. swaps
@@ -689,13 +709,18 @@ h. discuss investment characteristics, strategy implementation, and role in a po
 
 i. describe how **factor models** may be used to understand hedge fund risk exposures; evaluate the impact of an allocation to a hedge fund strategy in a traditional investment portfolio. 
 
+- conditional factor risk model
+
 ### Reading 27 Asset allocation to alternatives
 
 a. explain the **roles** that alternative investments play in multi-asset portfolios; 
 
-b. compare alternative investments and bonds as risk mitigators in relation to a long equity position; 
+b. compare **alternative investments and bonds** as risk mitigators in relation to a long equity position; 
 
-c. compare traditional and risk-based approaches to defining the investment **opportunity set**, including alternative investments; 
+- short term : smoothing
+- long term
+
+c. **compare traditional and risk-based approaches** to defining the investment opportunity set, including alternative investments; 
 
 d. discuss **investment considerations** that are important in allocating to different types of alternative investments; 
 
@@ -704,10 +729,12 @@ e. discuss **suitability** considerations in allocating to alternative investmen
 f. discuss **approaches** to asset allocation to alternative investments; 
 
 - Monte Carlo
-- Portfolio Optimizaition
+- Portfolio Optimizaition(MVO)
 - Risk Factor-Based opt
 
 g. discuss the importance of **liquidity planning** in allocating to alternative investments; 
+
+- 
 
 h. discuss considerations in **monitoring** alternative investment programs.
 
