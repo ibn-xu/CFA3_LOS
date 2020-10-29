@@ -1304,10 +1304,11 @@ l. recommend and justify **appropriate strategies for asset allocation and risk 
 
 1. describe the components of a manager selection process, including due diligence; contrast **Type I and Type II errors i**n manager hiring and continuation  decisions; 
 2. describe uses of **returns-based and holdings-based** style analysis in  investment manager selection; 
-3. describe uses of the upside capture ratio, downside capture ratio,  maximum drawdown, drawdown duration, and up/down capture in evaluating  managers; 
-4. evaluate a manager’s investment philosophy and investment  decision-making process; 
+3. describe uses of the upside capture **ratio**, downside capture ratio,  maximum drawdown, drawdown duration, and up/down capture in evaluating  managers; 
+4. evaluate a manager’s investment philosophy and **investment decision-making process;** 
 5. evaluate the costs and benefits of **pooled investment vehicles and  separate accounts;** 
 6. compare types of investment manager contracts, including their major provisions and advantages and disadvantages; 
+   1. fees
 7. describe the three basic forms of **performance-based fees;** 
-8. analyze and interpret a sample performance-based fee schedule
+8. analyze and interpret a sample performance-based **fee** schedule
 
