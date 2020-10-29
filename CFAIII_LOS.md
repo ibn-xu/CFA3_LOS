@@ -1205,8 +1205,109 @@ l. recommend and justify **appropriate strategies for asset allocation and risk 
 
 ### R34 Trading strategy and execution
 
+![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/trading.png)
 
+1. discuss **motivations** to trade and how they relate to trading strategy; 
+
+2. discuss **inputs to the selection of a trading strategy;** 
+
+3. compare **benchmarks** for trade execution; 
+
+   ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/RP.png)
+
+4. select and justify a trading strategy (given relevant facts); 
+
+5. describe factors that typically determine the selection of a **trading algorithm** class; 
+
+   ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/SI.png)
+
+   ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/algoTrading.png)
+
+6. contrast key characteristics of the following markets in relation to trade implementation: equity, fixed income, options and futures, OTC  derivatives, and spot currency; 
+
+7. explain how **trade costs** are measured and determine the cost of a trade; 
+
+   1. IS三分解
+
+8. evaluate the **execution of a trade**; 
+
+   1. 四种计算trading cost方式
+
+9. evaluate a firm’s trading procedures, including processes, disclosures,  and record keeping with respect to good governance. 
 
 ### R35 Portfolio performance evaluation
 
+1. explain the following components of portfolio evaluation and their  interrelationships: performance **measurement**, performance **attribution**,  and performance **appraisal**; 
+
+2. describe attributes of an effective attribution process; 
+
+3. distinguish between **return attribution and risk attribution** and between **macro and micro** return attribution; 
+
+4. describe **returns-based, holdings-based, and transactions-based** performance attribution, including advantages and disadvantages of each; 
+
+   ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/performance_attribution.png)
+
+5. interpret the **sources of portfolio returns** using a specified attribution approach; 
+
+   1. **Brison Model**
+
+6. interpret the output from **fixed-income attribution** analyses; discuss considerations in selecting a **risk attribution** approach; 
+
+   ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/risk_attribution.png)
+
+7. distinguish between investment results attributable to the asset owner versus those attributable to the investment manager; 
+
+   1. macro -> fund sponsor
+   2. micro -> portfolio manager
+
+8. discuss uses of **liability-based** **benchmarks**; 
+
+9. describe types of **asset-based** **benchmarks**; 
+
+   1. seven types(#5 2:43)
+
+10. discuss tests of **benchmark quality**; describe problems that arise in **benchmarking alternative investments;** 
+
+    1. valid benchmark 定性
+       1. unambigious
+       2. investable
+       3. measurable
+       4. appropriate
+       5. reflective of current investable opinions
+       6. sepcificied in advance
+       7. accountable
+    2. 定量
+       1. $ P = M + S + A $ (市场 风格 主动投资)
+       2. A和S相关性要比较低
+       3. E = P -M , E和S的相关性要比较高才好
+    3. alternative
+       1. facing many challenges
+
+11. describe the impact of benchmark misspecification on attribution and  **appraisal analysis**; calculate and interpret the **Sortino ratio, the appraisal ratio,  upside/downside capture ratios, maximum drawdown, and drawdown duration;** 
+
+    ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/ratios.png)
+
+    - capital ratio:
+      - 大于1:positive asymmetry / convex return profile
+      - 小于1: negative asymmtry / concave return profile
+      - 
+
+12. describe **limitations** **of appraisal measures** and related metrics; 
+
+    ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/appraisalMeasure.png)
+
+13. evaluate the skill of an investment manager.
+
 ### R36 Investment manager selection
+
+![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/managerSelection.png)
+
+1. describe the components of a manager selection process, including due diligence; contrast **Type I and Type II errors i**n manager hiring and continuation  decisions; 
+2. describe uses of **returns-based and holdings-based** style analysis in  investment manager selection; 
+3. describe uses of the upside capture ratio, downside capture ratio,  maximum drawdown, drawdown duration, and up/down capture in evaluating  managers; 
+4. evaluate a manager’s investment philosophy and investment  decision-making process; 
+5. evaluate the costs and benefits of **pooled investment vehicles and  separate accounts;** 
+6. compare types of investment manager contracts, including their major provisions and advantages and disadvantages; 
+7. describe the three basic forms of **performance-based fees;** 
+8. analyze and interpret a sample performance-based fee schedule
+
