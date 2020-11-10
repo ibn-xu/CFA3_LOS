@@ -14,15 +14,15 @@ b.   explain the ethical responsibilities required by the Code and Standards, in
 
 ### Reading 2:  Standard I - VII
 
-a. demonstrate a thorough knowledge of the CFA Institute Code of Ethics and Standards of Professional Conduct by interpreting the Code and Standards in various situations involving issues of professional integrity;
+a. demonstrate a thorough knowledge of the CFA Institute Code of Ethics and Standards of Professional Conduct by interpreting the Code and Standards in **various situations** involving issues of professional integrity;
 
 b. recommend practices and procedures designed to prevent violations of the Code and Standards.
 
 ### Reading 3:
 
-a. evaluate practices, policies, and conduct relative to the CFA Institute Code of Ethics and Standards of Professional Conduct;
+a. **evaluate** practices, policies, and conduct relative to the CFA Institute Code of Ethics and Standards of Professional Conduct;
 
-b. explain how the practices, policies, or conduct does or does not violate the CFA Institute Code of Ethics and Standards of Professional Conduct.
+b. explain how the practices, policies, or conduct **does or does not violate t**he CFA Institute Code of Ethics and Standards of Professional Conduct.
 
 ### Reading 4:
 
@@ -36,27 +36,34 @@ d. describe a framework for ethical decision- making.
 
 
 
-### Reading 5
+### Reading 5 AMC
 
-a. explain the purpose of the Asset Manager Code and the benefits that may accrue to a firm that adopts the Code;*
+a. explain the **purpose** of the Asset Manager Code and the **benefits** that may accrue to a firm that adopts the Code;
 
-b. explain the ethical and professional responsibilities required by the six General Principles of Conduct of the Asset Manager Code;
+b. explain the ethical and professional responsibilities required by the **six General Principles** of Conduct of the Asset Manager Code;
 
-c. determine whether an asset manager’s practices and procedures are consistent with the Asset Manager Code;
+c. determine whether an asset manager’s practices and procedures are **consistent with the Asset Manager Code;**
 
-d. recommend practices and procedures designed to prevent violations of the Asset Manager Code.
+d. recommend practices and procedures designed to prevent **violations of the Asset Manager Code**.
 
 ### **Reading 6**：GIPS
 
-a. discuss the **objectives**, key characteristics, and **scope** of the GIPS standards and their benefits to prospective clients and investment managers;*
+a. discuss the **objectives**, key **characteristics**, and **scope** of the GIPS standards and their benefits to prospective clients and investment managers;
 
-b. explain the fundamentals of compliance with the GIPS standards, including the **definition of the firm（0.A.12）** **and the firm’s definition of discretion****（没有具体哪一条）;*针对条款0
+b. explain the **fundamentals** of compliance with the GIPS standards, including the **definition of the firm（0.A.12）** **and the firm’s definition of discretion**（没有具体哪一条）;针对条款0
 
 c. explain the requirements and recommendations of the GIPS standards with respect to **input data**, including accounting policies related to **valuation and performance measurement**;针对条款1
 
-d. discuss the requirements of the GIPS standards with respect to return calculation methodologies, including the treatment of external cash flows（2.A.2）, cash and cash equivalents（2.A.3）, and expenses and fees(2.A.4-5);条款2
+d. discuss the requirements of the GIPS standards with respect to **return calculation methodologies,** including the treatment of external cash flows（2.A.2）, cash and cash equivalents（2.A.3）, and expenses and fees(2.A.4-5);条款2
 
-e. explain the requirements and recommendations of the GIPS standards with respect to composite return calculations, including methods for asset- weighting portfolio returns(2.A.6-7);** **条款****2
+- 2.A.2
+  - Original Dietz(before 2005)
+  - Modified Dietz (2005 - 2010)
+  - TWRR (now)
+- 2.A.3
+- 
+
+e. explain the requirements and recommendations of the GIPS standards with respect to **composite return calculations,** including methods for **asset- weighting portfolio returns(**2.A.6-7);条款2
 
 f. explain the meaning of “discretionary” in the context of composite construction and, given a description of the relevant facts, determine whether a portfolio is likely to be considered discretionary;条款3
 
@@ -64,15 +71,19 @@ g. explain the role of investment mandates, objectives, or strategies in the con
 
 h. explain the requirements and recommendations of the GIPS standards with respect to composite construction, including switching portfolios among composites(3.A.7), the timing of the inclusion of new portfolios in composites(3.A.5), and the timing of the exclusion of terminated portfolios from composites(3.A.6);条款3
 
-i. explain the requirements of the GIPS standards for asset class segments carved out of multi- class portfolios(3.A.8);条款3
+i. explain the requirements of the GIPS standards for asset class segments **carved out** of multi- class portfolios(3.A.8);条款3
 
-j. explain the requirements and recommendations of the GIPS standards with respect to disclosure, including fees(4.A.5-6), the use of leverage and derivatives(4.A.13), conformity with laws and regulations that conflict with the GIPS standards(4.A.22), and noncompliant performance periods(4.A.15);条款4
+j. explain the requirements and recommendations of the GIPS standards with respect to **disclosure**, including fees(4.A.5-6), the use of leverage and derivatives(4.A.13), conformity with laws and regulations that conflict with the GIPS standards(4.A.22), and noncompliant performance periods(4.A.15);条款4
 
-k. explain the requirements and recommendations of the GIPS standards with respect to presentation and reporting（5.A.1）, including the required timeframe of compliant performance periods, annual returns(5.A.4), composite assets(5.A.6-7), and benchmarks;条款5
+![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/GIPS_disclosure.png)
+
+k. explain the requirements and recommendations of the GIPS standards with respect to **presentation and reporting**（5.A.1）, including the required timeframe of compliant performance periods, annual returns(5.A.4), composite assets(5.A.6-7), and benchmarks;条款5
 
 l. explain the conditions under which the performance of a past firm or affiliation must be linked to or used to represent the historical performance of a new or acquiring firm(5.A.8);条款5
 
-m. evaluate the relative merits of high/low, range, interquartile range, and equal- weighted or asset- weighted standard deviation as measures of the internal dispersion of portfolio returns within a composite for annual periods;** **条款****5**
+m. evaluate the relative merits of high/low, range, interquartile range, and equal- weighted or asset- weighted standard deviation as measures of the internal dispersion of portfolio returns within a composite for annual periods; 条款5
+
+![GIPS_reporting](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/GIPS_reporting.png)
 
 n. identify the types of investments(适用范围)that are subject to the GIPS standards for real estate and private equity;条款6
 
@@ -80,11 +91,13 @@ o. explain the provisions of the GIPS standards for real estate and private equi
 
 p. explain the provisions of the GIPS standards for Wrap fee/ Separately Managed Accounts;条款8
 
-q. explain the requirements and recommended valuation hierarchy of the GIPS Valuation Principles;（第三节：1-5）
+q. explain the requirements and recommended **valuation** hierarchy of the GIPS Valuation Principles;（第三节：1-5）
 
-r. determine whether advertisements comply with the GIPS Advertising Guidelines;（第四节）
+r. determine whether **advertisements** comply with the GIPS Advertising Guidelines;（第四节）
 
-s. discuss the purpose, scope, and process of verification;*
+![GIPS_advertising](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/GIPS_advertising.png)
+
+s. discuss the purpose, scope, and process of **verification**;
 
 t. discuss challenges related to the calculation of after- tax returns;
 
