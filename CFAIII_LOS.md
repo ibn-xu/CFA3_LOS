@@ -101,7 +101,7 @@ s. discuss the purpose, scope, and process of **verification**;
 
 t. discuss challenges related to the calculation of after- tax returns;
 
-u. identify and explain errors and omissions in given performance presentations and recommend changes that would bring them into compliance with GIPS standards.（没有？视频09 32:40）
+u. **identify and explain errors and omissions in given performance presentations** and recommend changes that would bring them into compliance with GIPS standards.（没有？视频09 32:40）
 
 ---
 
@@ -119,17 +119,17 @@ u. identify and explain errors and omissions in given performance presentations 
 1. distinguish between **cognitive errors** and **emotional biases**;
 2. discuss commonly recognized behavioral biases and their implications for financial decision making;
 3. identify and evaluate an individual’s behavioral biases;
-4. evaluate how behavioral biases affect investment policy and asset allocation decisions and recommend approaches to mitigate their effects. 
+4. evaluate how behavioral biases affect investment policy and asset allocation decisions and recommend **approaches to mitigate their effects.** 
 
 ### R9 BF and investment process
 
-1. explain the uses and limitations of classifying investors into personality  types; 
+1. explain the uses and limitations of classifying investors into personality types; 
 2. discuss how behavioral factors affect adviser–client interactions; 
 3. discuss how behavioral factors influence portfolio construction; 
 4. explain how behavioral finance can be applied to the process of  portfolio construction; 
-5. discuss how behavioral factors affect analyst forecasts and recommend  remedial actions for analyst biases; 
+5. discuss how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases; 
 6. discuss how behavioral factors affect investment committee decision  making and recommend techniques for mitigating their effects; 
-7. describe how behavioral biases of investors can lead to market  characteristics that may not be explained by traditional finance. 
+7. describe how behavioral biases of investors can lead to market characteristics that may not be explained by traditional finance. 
 
 ---
 
@@ -212,7 +212,9 @@ i. interpret the shape of the **yield curve** as an economic predictor and discu
 
 - yield curve 
 
-j. identify and interpret **macroeconomic, interest rate, and exchange rate linkages** between economies.  ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/international_interactions.PNG)
+j. identify and interpret **macroeconomic, interest rate, and exchange rate linkages** between economies. 
+
+ ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/international_interactions.PNG)
 
 ### Reading 11: Forecasting asset class returns
 
@@ -272,51 +274,98 @@ h. recommend and justify **changes in the component weights of a global investme
 
 ### Reading 12 Overview
 
-1. describe elements of **effective investment governance** and investment governance  considerations in asset allocation; 
-2. prepare an **economic balance sheet** for a client and interpret its implications for asset allocation; 
+1. describe elements of **effective investment governance** and investment governance considerations in asset allocation; 
+   1. investment obj
+   2. allocation of rights and responsibilities
+   3. IPS
+   4. AA and rebalancing policy
+   5. reporting framework
+   6. the governance audit
+2. prepare an **economic balance sheet** for a client and interpret its implications for asset allocation;
+   1. consider full range of assets and liabilities 
 3. compare the **investment objectives** of asset-only, liability-relative, and goals-based asset allocation approaches; 
-4. contrast concepts of **risk** relevant to asset-only, liability-relative,  and goals-based asset allocation approaches; 
-5. explain how asset classes are used to represent **exposures to systematic risk** and discuss **criteria for asset class specification**; 
-6. explain the use of **risk factors** in asset allocation and their relation  to traditional asset class–based approaches; 
+   1. AO: maximize sharpe ratio under acceptable risk level
+   2. L-R: fund liabilities and invest excess asset
+   3. G-B: achieve goals
+4. contrast concepts of **risk** relevant to asset-only, liability-relative, and goals-based asset allocation approaches;
+   1. AO:
+      1. volatility
+      2. tracking risk
+      3. downside risk
+   2. LR:
+      1. volatility of surplus($ A-L$)
+      2. volatility of funded ratio($ A / L $) 
+   3. GB:
+      1. risk of not achieving goals
+5. explain how asset classes are used to represent **exposures to systematic risk** and discuss **criteria for asset class specification**; (asset class based)
+   1. each asset class has its own systematic risk exposure.
+   2. asset class sepcification:
+      1. have the capacity to absorb a meaningful propotion of an investors' portfolio
+      2. homogeneous
+      3. mutually exclusive
+      4. diversifying
+      5. make a preponderance of world investable wealth
+6. explain the use of **risk factors** in asset allocation and their **relation** to traditional asset class–based approaches; (factor based)
+   1. assigning investments to specific risk factors
+   2. asset classes often exhibits some overlaps in sources of risk
 7. select and justify an asset allocation based on an investor’s objectives and constraints; 
    1. **approaches**
 8. describe the use of the **global market portfolio** as a baseline portfolio in asset allocation; 
-   1. The global market portfolio represents a highly diversified asset allocation that can serve as a baseline asset allocation in an asset-only approach. 
-9. discuss strategic implementation choices in asset allocation, including passive/active choices and vehicles for implementing passive and active mandates; 
+   1. The global market portfolio represents a *highly diversified asset allocation* that can serve as a *baseline asset allocation* in an asset-only approach. 
+9. discuss strategic implementation choices in asset allocation, including **passive/active choices** and **vehicles** for implementing passive and active mandates; 
+   1. passive choices: portfolio composition does not react to investor's expectation
+   2. active choices: portfolio responds to investors' expectation
 10. discuss strategic considerations in **rebalancing** asset allocations
+    1. tight:
+       1. risk aversion
+       2. derivatives
+       3. volatility
+    2. wide
+       1. transaction costs
+       2. asset class correlations
+       3. mementum
+       4. liquidity
+       5. taxes
 
 ### Reading 13 Principles
 
 1. describe and critique the use of **mean–variance optimization** in asset allocation; 
 
    1. criticisms
-
+      1. sensitive to the inputs
+      2. allocations tends to be highly concentrated
+      3. non-normality
+      4. single-peroid framework
+      5. source of risk may be not diversified
+      6. liability based
+   2. utility (and safety-first ratio)
+   3. 
 2. recommend and justify an asset allocation using **mean–variance optimization**; 
-
 3. interpret and critique an asset allocation in relation to an investor’s **economic balance sheet**; 
-
 4. discuss asset class **liquidity** considerations in asset allocation; 
-
+   1. an upper limit on an alternative asset for liquidity considerations
+   2. hard to make capital market assumptions
+   3. no low-cost passive investment vehicles to track benchmark
 5. explain **absolute and relative risk budgets** and their use in determining and implementing an asset allocation; 
-
-6. describe how client needs and preferences regarding investment risks can be incorporated into asset allocation; 
-
+   1. 
+6. describe how **client needs and preferences regarding investment risks** can be incorporated into asset allocation; 
+   1. black-litter man
+   2. $  $
 7. discuss the use of **Monte Carlo simulation** and **scenario analysis** to evaluate the robustness of an asset allocation; 
-
 8. describe the use of **investment factors** in constructing and analyzing an asset allocation; 
-
 9. recommend and justify an asset allocation based on the **global market portfolio;** 
-
 10. describe and evaluate **characteristics of liabilities** that are relevant to asset allocation; 
-
+    1. fixed liabilities
+    2. contingent liabilities
+    3. legal liabilities
+    4. quasi-liabilities
 11. discuss approaches to l**iability-relative** asset allocation; 
-
+    1. surplus optimization
+    2. Hedging/Return-seeking portfolios approach
+    3. Integrated asset-liability approach (multiple periods)
 12. recommend and justify a liability-relative asset allocation; 
-
 13. recommend and justify an asset allocation using a **goals-based** approach; 
-
 14. describe and critique **heuristic and other approaches** to asset allocation; 
-
 15. discuss factors affecting **rebalancing** policy
 
 ### Reading 14  AA constrains
@@ -336,7 +385,7 @@ h. recommend and justify **changes in the component weights of a global investme
 1. demonstrate how **an asset’s returns may be replicated** by using options;     
 2. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a **covered call** position;     
 3. discuss the investment objective(s), structure, payoff, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a **protective put** position;     
-4. compare the **delta** of covered call and protective put positions with  the position of being long an asset and short a forward on the underlying asset;    
+4. compare the **delta** of covered call and protective put positions with the position of being long an asset and short a forward on the underlying asset;    
 5. compare the effect of buying a call on a short underlying position  with the effect of selling a put on a short underlying position;     
 6. discuss the investment objective(s), structure, payoffs, risk(s),  value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of the following option strategies: **bull spread, bear spread, straddle, and collar;**     
 7. describe uses of **calendar spreads**;     
@@ -655,8 +704,8 @@ h. describe how **quantitative active** investment strategies are created;
 i. discuss **equity investment style** classifications.
 
 - HBSA
-  - Morning-star & Thomsom Reuters Lipper
-  - MSCI & FTSE
+  - Morning-star & Thomsom Reuters Lipper: 1 or 0
+  - MSCI & FTSE: one stock can have more than one style
 - RBSA
 - Self-identification
 
@@ -675,15 +724,13 @@ i. discuss **equity investment style** classifications.
 
 3. distinguish between **Active Share** and **active risk** and discuss how each  measure relates to a manager’s investment strategy; 
 
-   
-
 4. discuss the application of **risk budgeting** concepts in portfolio  construction; 
 
    - absolute risk 
    - relative risk
      - using $ activetisk $ & $ \Delta weight $ 
-   - appropriate level: 
-     - leverage will reduce expected compounded return in a multi-period setting
+   - appropriate leverage: 
+     - **leverage** will reduce expected compounded return in a multi-period setting
 
 5. discuss risk measures that are incorporated in equity portfolio construction and describe how **limits** set on these measures affect  portfolio construction; 
 
@@ -693,11 +740,10 @@ i. discuss **equity investment style** classifications.
 6. discuss how **assets under management**, **position size**, **market liquidity**,  and **portfolio turnover** affect equity portfolio construction decisions;
 
 7. **evaluate the efficiency of a portfolio structure** given its investment mandate; 
-
-   - unexplained大小
+- unexplained大小
    - beta显著性
    - active risk
-
+   
 8. discuss the long-only, long extension, long/short, and equitized  market-neutral approaches to equity portfolio construction, including  their **risks, costs, and effects on potential alphas.** 
 
 ---
@@ -1268,7 +1314,7 @@ l. recommend and justify **appropriate strategies for asset allocation and risk 
 
    ![](/home/xufangwen/Learning/CFA/level3/CFAIII_LOS/pic/risk_attribution.png)
 
-7. distinguish between investment results attributable to the asset owner versus those attributable to the investment manager; 
+7. distinguish between **investment results attributable** to the asset owner versus those attributable to the investment manager; 
 
    1. macro -> fund sponsor
    2. micro -> portfolio manager
