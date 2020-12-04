@@ -1134,27 +1134,32 @@ h. describe strategies for managing concentrated positions in **publicly traded 
   - hedging:
     - buy puts: ==unlimited upside potential==
     - zero premium collar: ==limited==
+    - Prepaid Variable Forwards
+    - writing covered call
 
 i. discuss **tax** considerations in the choice of **hedging strategy**;
 
 - Mismatch in character
-- Prepaid Variable Forwards(PVF)
-- Writing covered call
+- Outright Sale vs. Synthetic sale 
 
 j. describe strategies for managing concentrated positions in **privately held businesses**;
 
 - Sale to External buyers
-- Leveraged Recapitalization(Staged Exit)
+- Leveraged Recapitalization(Staged Exit) : 2 Setp
 - Going through IPO
-- Divestiture
+- Divestiture : Sell non-core assets
 - Sale to internal buyers
+  - family member or next generation
+  - Sale to Managment(MBO)
 - ESOP
 - Personal line of credit
 
 k. describe strategies for managing concentrated positions in **real estate**;
 
 - mortgage financing
+  - LTV
 - Sale and Leaseback
+  - trigger tax event
 
 l. evaluate and recommend **techniques for tax efficiently** managing the risks of concentrated positions in publicly traded common stock, privately held businesses, and real estate.
 
@@ -1186,17 +1191,25 @@ b. discuss the relationships among **human capital, financial capital, and econo
 
 c. discuss the **financial stages of life** for an individual;
 
+- edu
+- career
+- retirement
+
 d. describe an **economic (holistic) balance sheet**;
 
 | Net Worth         |                      |
 | ----------------- | -------------------- |
 | human capital     | lifetime consumption |
 | pension(unvested) | bequests             |
-|                   |                      |
+| **Net Wealth**    |                      |
 
-e. discuss **risks** (earnings, premature death, longevity, property, liability, and health risks) in relation to human and financial capital;
+e. discuss **risks** in relation to human and financial capital;
 
-f. describe types of **insurance** relevant to personal financial planning;
+-  (earnings, premature death, longevity, property, liability, and health risks)
+
+- premature death
+
+f. describe **types of** **insurance** relevant to personal financial planning;
 
 - life insurance
   - temporary life insurance
@@ -1214,6 +1227,10 @@ g.describe the **basic elements of a life insurance** policy and how insurers **
   - mortality expectation
   - discount rate
   - loading 
+  - comparison of Life Insurance costs
+    - Net payment Cost Index
+    - Surrender Cost Index
+    - 年初付出/FaceValue * 1000
 
 h. discuss **the use of annuities** in personal financial planning;
 
@@ -1224,6 +1241,7 @@ h. discuss **the use of annuities** in personal financial planning;
 i. discuss the **relative advantages and disadvantages** of fixed and variable annuities;
 
 - exp. return
+- income stream
 - fees
 - withdraw flexibility
 - inflatoin
